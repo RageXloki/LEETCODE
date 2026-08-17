@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RageXloki/LEETCODE/tree/master/0050-powx-n) |
 | [1025-divisor-game](https://github.com/RageXloki/LEETCODE/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RageXloki/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Dynamic Programming
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/RageXloki/LEETCODE/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RageXloki/LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
